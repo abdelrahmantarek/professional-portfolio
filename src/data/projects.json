@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A modern e-commerce platform with real-time inventory management and AI-powered recommendations.",
+    "category": "ecommerce",
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "image": "/images/projects/ecommerce-platform.svg",
+    "link": "https://example-ecommerce.com",
+    "github": "https://github.com/example/ecommerce-platform",
+    "featured": true,
+    "date": "2024-01-15",
+    "client": "TechCorp Inc.",
+    "duration": "6 months",
+    "teamSize": 5,
+    "challenges": [
+      "Building a scalable architecture to handle high traffic",
+      "Implementing real-time inventory synchronization",
+      "Creating an AI-powered recommendation system"
+    ],
+    "solutions": [
+      "Implemented microservices architecture with Kubernetes",
+      "Used WebSocket connections for real-time updates",
+      "Integrated TensorFlow for machine learning recommendations"
+    ],
+    "results": [
+      "300% increase in conversion rate",
+      "50% reduction in cart abandonment",
+      "99.9% uptime achieved"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Healthcare Dashboard",
+    "description": "Comprehensive healthcare management system with patient tracking and analytics.",
+    "category": "healthcare",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Chart.js",
+      "Docker"
+    ],
+    "image": "/images/projects/healthcare-dashboard.svg",
+    "link": "https://example-healthcare.com",
+    "github": "https://github.com/example/healthcare-dashboard",
+    "featured": true,
+    "date": "2024-02-20",
+    "client": "MedCare Solutions",
+    "duration": "4 months",
+    "teamSize": 4,
+    "challenges": [
+      "Ensuring HIPAA compliance",
+      "Handling sensitive patient data securely",
+      "Creating intuitive UI for medical professionals"
+    ],
+    "solutions": [
+      "Implemented end-to-end encryption",
+      "Built role-based access control system",
+      "Designed user-friendly interface with accessibility features"
+    ],
+    "results": [
+      "40% improvement in patient data accuracy",
+      "60% reduction in administrative tasks",
+      "95% user satisfaction rate"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Real Estate Portal",
+    "description": "Property listing platform with virtual tours and advanced search capabilities.",
+    "category": "realestate",
+    "technologies": [
+      "Vue.js",
+      "Laravel",
+      "MySQL",
+      "Three.js",
+      "AWS"
+    ],
+    "image": "/images/projects/real-estate-portal.svg",
+    "link": "https://example-realestate.com",
+    "github": "https://github.com/example/real-estate-portal",
+    "featured": false,
+    "date": "2024-03-10",
+    "client": "PropertyPro LLC",
+    "duration": "5 months",
+    "teamSize": 6,
+    "challenges": [
+      "Creating immersive virtual tours",
+      "Implementing advanced search filters",
+      "Handling large image galleries"
+    ],
+    "solutions": [
+      "Integrated 360-degree virtual tour technology",
+      "Built sophisticated search algorithm",
+      "Implemented CDN for image optimization"
+    ],
+    "results": [
+      "250% increase in property views",
+      "45% reduction in time-to-rent",
+      "80% user engagement improvement"
+    ]
+  }
+]

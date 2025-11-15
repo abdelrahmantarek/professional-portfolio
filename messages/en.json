@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "blog": "Blog",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "badge": "Award Winning Development Team",
+    "title": "Crafting Digital",
+    "titleHighlight": "Excellence",
+    "description": "We build stunning, high-performance web applications that drive results and deliver exceptional user experiences.",
+    "viewWork": "View Our Work",
+    "getInTouch": "Get In Touch",
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "experience": "Years Experience"
+    }
+  },
+  "about": {
+    "title": "About Our Company",
+    "description": "We're a team of passionate developers and designers dedicated to creating exceptional digital experiences.",
+    "stats": {
+      "clients": "Happy Clients",
+      "awards": "Awards Won",
+      "projects": "Projects Completed",
+      "experience": "Years Experience"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses with innovative digital solutions that drive growth and create lasting impact.",
+      "points": [
+        "Deliver exceptional quality",
+        "Foster innovation",
+        "Build lasting relationships"
+      ]
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading digital agency recognized for transforming ideas into impactful digital experiences.",
+      "points": [
+        "Global recognition",
+        "Industry leadership",
+        "Continuous growth"
+      ]
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "members": {
+        "ceo": {
+          "name": "John Smith",
+          "role": "CEO & Founder",
+          "bio": "Former Google engineer with 10+ years of experience in web development."
+        },
+        "cto": {
+          "name": "Sarah Johnson",
+          "role": "CTO",
+          "bio": "Expert in scalable architectures and cloud technologies."
+        },
+        "designer": {
+          "name": "Mike Chen",
+          "role": "Lead Designer",
+          "bio": "Award-winning designer specializing in user experience."
+        }
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a comprehensive range of digital services to help your business succeed.",
+    "items": {
+      "webDev": {
+        "title": "Web Development",
+        "description": "Custom web applications built with modern technologies and best practices."
+      },
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "Beautiful, intuitive interfaces that users love to interact with."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "description": "Native and cross-platform mobile applications for iOS and Android."
+      },
+      "strategy": {
+        "title": "Digital Strategy",
+        "description": "Comprehensive digital strategies to help your business grow online."
+      }
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "description": "Check out some of our recent work and success stories.",
+    "viewAll": "View All Projects",
+    "card": {
+      "featured": "Featured",
+      "client": "Client",
+      "teamMembers": "team members",
+      "viewCaseStudy": "View Case Study"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "description": "Don't just take our word for it - hear from our satisfied clients."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a project in mind? Let's discuss how we can help bring your vision to life.",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "tagline": "Crafting digital excellence through innovative web solutions and cutting-edge technologies.",
+    "services": "Services",
+    "company": "Company",
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Get the latest news and updates delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "aboutUs": "About Us",
+      "ourTeam": "Our Team",
+      "careers": "Careers"
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Professional Portfolio - Digital Excellence",
+      "description": "Award-winning web development company crafting stunning digital experiences with modern technologies."
+    },
+    "about": {
+      "title": "About Us - Professional Portfolio",
+      "description": "Learn more about our team, mission, and values."
+    },
+    "services": {
+      "title": "Services - Professional Portfolio",
+      "description": "Explore our comprehensive range of digital services."
+    },
+    "projects": {
+      "title": "Projects - Professional Portfolio",
+      "description": "Browse our portfolio of successful projects."
+    },
+    "contact": {
+      "title": "Contact Us - Professional Portfolio",
+      "description": "Get in touch with us for your next project."
+    },
+    "blog": {
+      "title": "Blog - Professional Portfolio",
+      "description": "Read our latest articles and insights."
+    }
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "comingSoon": "Coming soon! Stay tuned for our latest articles and insights.",
+    "loading": "Loading..."
+  }
+}
