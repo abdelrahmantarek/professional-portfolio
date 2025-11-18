@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# capacitor
+# Note: android/ and ios/ folders are committed as they contain custom configurations
+# Their respective .gitignore files handle build artifacts
+# Only ignore the generated web assets and config files (already handled by android/.gitignore and ios/.gitignore)

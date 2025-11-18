@@ -5,15 +5,26 @@ import { ExternalLink, Github, ArrowLeft, Calendar, Users, Clock } from 'lucide-
 import Link from 'next/link'
 import projectsData from '@/data/projects.json'
 import { Project } from '@/types'
+import { locales } from '../../../../../i18n'
 
 interface ProjectPageProps {
-  params: { slug: string }
+  params: { slug: string; locale: string }
 }
 
 export async function generateStaticParams() {
-  return projectsData.map((project: Project) => ({
-    slug: project.id.toString(),
-  }))
+  // Generate params for all locales and all projects
+  const params: { locale: string; slug: string }[] = []
+
+  locales.forEach((locale) => {
+    projectsData.forEach((project: Project) => {
+      params.push({
+        locale,
+        slug: project.id.toString(),
+      })
+    })
+  })
+
+  return params
 }
 
 export async function generateMetadata({ params }: ProjectPageProps): Promise<Metadata> {
